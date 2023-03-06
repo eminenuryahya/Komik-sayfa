@@ -1,0 +1,21 @@
+p {
+    text-align: center;
+    font-size: 32px;
+    font-family: Candara, Oswald;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+}
+#buton1 {
+    position: fixed;
+    top: 70%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+}
+#buton2 {
+    position: absolute;
+    left: 39%;
+    top: 68%;
+}
